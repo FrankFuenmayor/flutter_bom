@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  
+
+  # declare dependencies without versions
   freezed_annotation:
   http:
   lottie:
@@ -22,6 +23,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints:
+  # declare dependencies without versions
   freezed: 
 
 flutter:
