@@ -1,9 +1,6 @@
 # About
 
-This is a sample project for a proposal described in the article. 
-
-
-    Bill of Materials for Flutter: Manage common dependencies in projects with multiple packages
+This is a sample project for a proposal described in the article. ["Bill of Materials for Flutter: Manage common dependencies in projects with multiple packages"](https://medium.com/@frank.fuenmayor/bill-of-materials-for-flutter-manage-common-dependencies-in-projects-with-multiple-packages-0a2225a2bfa4)
 
 
 - In the `main` branch, the project contains multiple packages with dependencies and versions described in each one.
